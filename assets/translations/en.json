@@ -1,0 +1,56 @@
+{
+    "common": {
+        "appName": "Dani",
+        "welcomeTitle": "Welcome",
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "note": "Note",
+        "loading": "Loading",
+        "requireField": "This field is require",
+        "featureWorkInProgress": "Feature is progressing",
+        "logout": "Logout",
+        "login": "Login",
+        "createRequestSuccess": "Your request was successful",
+        "createRequestFailure": "Your request was failed",
+        "emptyData": "Your data is empty",
+        "createdDate": "Created date",
+        "date": "Date",
+        "areYouSureToDelete": "Are you sure to delete?",
+        "total": "Total: ",
+        "month": {
+            "january": "January",
+            "february": "February",
+            "march": "March",
+            "april": "April",
+            "may": "May",
+            "june": "June",
+            "july": "July",
+            "august": "August",
+            "september": "September",
+            "october": "October",
+            "november": "November",
+            "december": "december"
+        },
+        "version": "Version {}",
+        "sort": "Sort"
+    },
+    "loginScreen": {
+        "welcomeContent": "Welcome to Dani.\nCurrently, we only support login with Gmail",
+        "continueWithGmail": "Continue with Gmail"
+    },
+    "spendingScreen": {
+        "appBarTitle": "Create Spending",
+        "whatDidYouSpendToday": "What did you spend today?",
+        "spendingType": "Type",
+        "spendingTypeOther": "Other type",
+        "cost": "Cost",
+        "purpose": "What is your purpose?",
+        "spendingListing": "Spending listing",
+        "totalPerDay": "Total per day"
+    },
+    "dashboardScreen": {
+        "statisticInMonth": "{} statistic",
+        "statisticFromDayToDay": "Statistic from {} to {}",
+        "statistic": "Statistic"
+    }
+}

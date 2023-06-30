@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1086200060655",
+    "project_id": "dani-2c38f",
+    "storage_bucket": "dani-2c38f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086200060655:android:a3757332c0e144e874991a",
+        "android_client_info": {
+          "package_name": "com.dani.alpha.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086200060655-k4s219l40659ra4a77dkhjpgtdgkiou5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dani.alpha.dev",
+            "certificate_hash": "5f762b94fbc1288b1ae57ad1cef17e3f0480c0fd"
+          }
+        },
+        {
+          "client_id": "1086200060655-79gumo6hftumg2s03vk61enn83q4haes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVmTCzwhEDWtMrc7b9WUlc_eEfhf9aJHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086200060655-79gumo6hftumg2s03vk61enn83q4haes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

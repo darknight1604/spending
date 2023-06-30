@@ -1,0 +1,7 @@
+{
+    "isDevelop": true,
+    "environment": {
+        "devPath":"dani/dev/",
+        "prodPath":""
+    }
+}
