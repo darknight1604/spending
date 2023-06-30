@@ -97,6 +97,9 @@ dependencies:
   flutter_launcher_icons: ^0.13.1
   package_info_plus: ^4.0.2
 
+  flappy:
+    path: ../flappy
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
